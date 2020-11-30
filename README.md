@@ -17,5 +17,5 @@
 
 I have over 5 years of programming experience, having started learning about programming and backend technologies (including more broadly IT-related things!) even before high school. 
 
-*I'm open to collaborating on any cool projects, feel free to contact me via my email as found on my website or résumé!*
+*I'm open to collaborating on any cool projects, so feel free to contact me via my email as found on my website or résumé!*
 
