@@ -6,8 +6,8 @@
 - Finishing up my last assignments in order to complete my undergraduate degree
 - ⚠️ *Looking for work! See my résumé [here](https://github.com/avigloz/resume-latex/blob/master/2020/avi_resume11_20.pdf) :) ⚠️*
 
-#### What I use:
-- **Machine**: Lenovo P53 (2019)
+#### What I use to work:
+- **Machine**: Lenovo P53 (2019), or my desktop PC (running all the same things)
 - **OS**: Linux (Arch)
   - **Window Manager**: [bspwm](https://github.com/baskerville/bspwm) (with [rofi](https://github.com/davatorium/rofi) and [polybar](https://github.com/polybar/polybar))
   - **Package Manager**: [yay](https://github.com/Jguer/yay)
