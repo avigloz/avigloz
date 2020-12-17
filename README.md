@@ -4,7 +4,7 @@
 
 - Personal projects
 - Finishing up my last assignments in order to complete my undergraduate degree
-- ⚠️ *Looking for work! See my résumé [here](https://github.com/avigloz/resume-latex/blob/master/2020/avi_resume11_20.pdf) :) ⚠️*
+- ⚠️ *Looking for work! See my résumé [here](https://github.com/avigloz/resume-latex/blob/master/2020/avi_resume12_20.pdf) :) ⚠️*
 
 #### What I use to work:
 - **Machine**: Lenovo P53 (2019), or my desktop PC (running all the same things)
