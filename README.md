@@ -9,7 +9,7 @@
 #### What I use to work:
 - **Machine**: Lenovo P53 (2019), or my desktop PC (running all the same things)
 - **OS**: Linux (Arch)
-  - **Window Manager**: [i3](https://github.com/baskerville/bspwm)
+  - **Window Manager**: [i3](https://github.com/i3/i3)
   - **Package Manager**: [yay](https://github.com/Jguer/yay)
 - **Editor**: [VS Code](https://github.com/microsoft/vscode), sometimes [neovim](https://github.com/neovim/neovim) or [micro](https://github.com/zyedidia/micro)
 - **Programming languages** (that I'm currently actively using): Python, JavaScript/TypeScript, C/C++
