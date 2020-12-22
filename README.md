@@ -3,7 +3,6 @@
 #### What I'm working on now:
 
 - Personal projects
-- Finishing up my last assignments in order to complete my undergraduate degree
 - ⚠️ *Looking for work! See my résumé [here](https://github.com/avigloz/resume-latex/blob/master/2020/avi_resume12_20.pdf) :) ⚠️*
 
 #### What I use to work:
