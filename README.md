@@ -7,7 +7,7 @@
 
 #### What I use to work:
 - **Machines**: Lenovo P53 (2019), my desktop PC (running all the same things)
-- **OS**: Arch Linux (w/ [Zen kernel](https://github.com/zen-kernel/zen-kernel), and sometimes Windows.
+- **OS**: Arch Linux (w/ [Zen kernel](https://github.com/zen-kernel/zen-kernel)), and sometimes Windows.
   - **Window Manager**: [bspwm](https://github.com/baskerville/bspwm/)
   - **Package Manager**: [paru](https://github.com/Morganamilo/paru)
 - **Editor**: [VS Code](https://github.com/microsoft/vscode), [micro](https://github.com/zyedidia/micro)
