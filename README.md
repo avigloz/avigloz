@@ -14,7 +14,7 @@
 - **Programming languages** (that I'm currently actively using): Python, Node.js/TypeScript, C/C++
 - **Web Browser**: Firefox
 
-For my configs, look [here](https://github.com/avigloz/dotfiles).
+*For my dotfiles, look [here](https://github.com/avigloz/dotfiles).*
 
 I have over 5 years of programming experience, having started learning about programming and backend technologies (including more broadly IT-related things!) even before high school. 
 
