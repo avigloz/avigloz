@@ -11,7 +11,7 @@
   - **Window Manager**: [bspwm](https://github.com/baskerville/bspwm/)
   - **Package Manager**: [paru](https://github.com/Morganamilo/paru)
 - **Editor**: [VS Code](https://github.com/microsoft/vscode), [micro](https://github.com/zyedidia/micro)
-- **Programming languages** (that I'm currently actively using): Python, JavaScript/TypeScript, C/C++
+- **Programming languages** (that I'm currently actively using): Python, Node.js/TypeScript, C/C++
 - **Web Browser**: Firefox
 
 For my configs, look [here](https://github.com/avigloz/dotfiles).
