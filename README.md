@@ -2,8 +2,8 @@
 
 #### What I'm working on now:
 
+- Backend Engineering at Hooked!
 - Personal projects
-- ⚠️ *Looking for work! See my résumé [here](https://github.com/avigloz/resume-latex/blob/master/2021/avi_resume03_21.pdf) :) ⚠️*
 
 #### What I use to work:
 - **Machines**: Lenovo P53 (2019), my desktop PC (running all the same things)
