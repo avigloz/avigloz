@@ -11,8 +11,9 @@
   - **Window Manager**: [bspwm](https://github.com/baskerville/bspwm/)
   - **Package Manager**: [paru](https://github.com/Morganamilo/paru)
 - **Editor**: [VS Code](https://github.com/microsoft/vscode)
-- **Programming languages/tech** (that I'm currently actively using): Node.js/TypeScript, React, AWS
+- **Programming languages/tech** (that I'm currently actively using): Node.js, AWS
 - **Web Browser**: Firefox Developer Edition
+- **Keyboard**: ErgoDox EZ (layout [here](https://configure.zsa.io/ergodox-ez/layouts/30mYG/latest/0))
 - *For my dotfiles, look [here](https://github.com/avigloz/dotfiles).*
 
 I have over 5 years of programming experience, having started learning about programming and backend technologies (including more broadly IT-related things!) even before high school. 
