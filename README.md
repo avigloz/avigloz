@@ -20,4 +20,7 @@ I have over 5 years of programming experience, having started learning about pro
 
 *I'm open to collaborating on any cool projects, so feel free to contact me via my email as found on my website or résumé!*
 
+<img src="https://data.typeracer.com/misc/badge?user=avigloz" border="0" alt="TypeRacer.com scorecard for user avigloz" align="right">
+
 ![Avi's GitHub stats](https://github-readme-stats.vercel.app/api?username=avigloz&theme=dark&hide=contribs,prs&count_private=true&show_icons=true&include_all_commits=true&layout=compact)
+
