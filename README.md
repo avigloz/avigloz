@@ -13,7 +13,7 @@
 - **Editor**: [VSCodium](https://github.com/VSCodium/vscodium)
 - **Programming languages/tech** (that I'm currently actively using): Node.js, AWS
 - **Web Browser**: Firefox Developer Edition
-- **Keyboard**: ErgoDox EZ (layout [here](https://configure.zsa.io/ergodox-ez/layouts/30mYG/latest/0))
+- **Keyboard**: ErgoDox EZ (layout [here](https://configure.zsa.io/ergodox-ez/layouts/30mYG/latest/0), it's very much WIP)
 - *For my dotfiles, look [here](https://github.com/avigloz/dotfiles).*
 
 *I'm open to collaborating on any cool projects, so feel free to contact me via my email as found on my website or résumé!*
