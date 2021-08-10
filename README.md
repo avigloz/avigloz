@@ -9,7 +9,8 @@
 - **Machines**: Lenovo P53 (2019), my desktop PC (running all the same things)
 - **OS**: Arch Linux (w/ [ck](http://repo-ck.com/index.html) or [zen](https://github.com/zen-kernel/zen-kernel) kernel), and sometimes Windows (for videogames).
   - **Window Manager**: [bspwm](https://github.com/baskerville/bspwm/)
-  - **Package Manager**: [paru](https://github.com/Morganamilo/paru)
+  - **Desktop Environment:** [MATE](https://github.com/mate-desktop) (laptop only)
+  - **Package Manager**: [yay](https://github.com/Jguer/yay)
 - **Editor**: [VSCodium](https://github.com/VSCodium/vscodium)
 - **Programming languages/tech** (that I'm currently actively using): Node.js, AWS
 - **Web Browser**: Firefox Developer Edition
