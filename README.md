@@ -2,7 +2,7 @@
 
 #### What I'm working on now:
 
-- Backend Engineering at Hooked
+- Backend Engineering + Architecture at Hooked
 - Personal projects
 
 #### What I use to work:
