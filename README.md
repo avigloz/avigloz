@@ -24,4 +24,5 @@ My commits are signed (as of 08/16/2021). If I make a commit that is unsigned, I
 <img src="https://data.typeracer.com/misc/badge?user=avigloz" border="0" alt="TypeRacer.com scorecard for user avigloz" align="right">
 
 ![Avi's GitHub stats](https://github-readme-stats.vercel.app/api?username=avigloz&theme=dark&hide=contribs,issues,prs&count_private=true&show_icons=true&include_all_commits=true&layout=compact)
+![Pioneer_Badge](https://user-images.githubusercontent.com/5449202/138986367-e019b20e-dba2-4f81-a349-c9b1956072f7.png)
 
