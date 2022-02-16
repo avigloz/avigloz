@@ -7,7 +7,7 @@
 
 #### What I use to work:
 - **Machines**: Lenovo P53 (2019), my desktop PC (running all the same things)
-- **OS**: Arch Linux (w/ [ck](http://repo-ck.com/index.html) or [zen](https://github.com/zen-kernel/zen-kernel) kernel), and sometimes Windows (for videogames and certain software).
+- **OS**: Arch Linux (w/ [zen](https://github.com/zen-kernel/zen-kernel) kernel), and sometimes Windows (for videogames and certain software).
   - **Window Manager**: [bspwm](https://github.com/baskerville/bspwm/) (PC only)
   - **Desktop Environment:** [MATE](https://github.com/mate-desktop) (laptop only)
   - **Package Manager**: [yay](https://github.com/Jguer/yay)
@@ -15,7 +15,6 @@
 - **Programming languages/tech** (that I'm currently actively using): Node.js, AWS
 - **Web Browser**: Firefox Developer Edition
 - **Keyboard**: ErgoDox EZ (layout [here](https://configure.zsa.io/ergodox-ez/layouts/30mYG/latest/0), it's very much WIP)
-- *For my dotfiles, look [here](https://github.com/avigloz/dotfiles).*
 
 *I'm open to collaborating on any cool projects, so feel free to contact me via my email as found on my website or résumé!*
 
