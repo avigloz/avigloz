@@ -20,7 +20,3 @@
 
 My commits are signed (as of 08/16/2021). If I make a commit that is unsigned, I'm either drunk, or not me at all.
 
-<img src="https://data.typeracer.com/misc/badge?user=avigloz" border="0" alt="TypeRacer.com scorecard for user avigloz">
-
-![Pioneer_Badge](https://user-images.githubusercontent.com/5449202/138986367-e019b20e-dba2-4f81-a349-c9b1956072f7.png)
-
