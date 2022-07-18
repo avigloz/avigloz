@@ -2,6 +2,7 @@
 
 #### What I'm working on now:
 
+- Backend Engineer @ MercuryTechnologies
 - Personal projects
 
 #### What I use to work:
