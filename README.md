@@ -6,7 +6,7 @@
 - Personal projects
 
 #### What I use to work:
-- **Machines**: Lenovo P53 (2019), my desktop PC (running all the same things)
+- **Machines**: MBP 16 M1, my desktop PC and Lenovo P53 laptop
 - **OS**: MacOS (primary), Arch Linux (w/ [zen](https://github.com/zen-kernel/zen-kernel) kernel), and sometimes Windows (for videogames and certain software).
   - **Window Manager**: [bspwm](https://github.com/baskerville/bspwm/) (PC only)
   - **Desktop Environment:** [MATE](https://github.com/mate-desktop) (laptop only)
