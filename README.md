@@ -13,7 +13,7 @@
   - **Package Manager**: [yay](https://github.com/Jguer/yay)
 - **Editor**: [VSCodium](https://github.com/VSCodium/vscodium) and [Neovim](https://github.com/neovim/neovim)
 - **Programming languages/tech** (that I'm currently actively using): Haskell
-- **Web Browser**: Brave
+- **Web Browser**: Brave (and Firefox on devices I use less often)
 - **Keyboard**: Filco Majestouch 2 NINJA
   - Previously: ErgoDox EZ (layout [here](https://configure.zsa.io/ergodox-ez/layouts/30mYG/latest/0), it's very much WIP)
 
