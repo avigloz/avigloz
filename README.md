@@ -2,7 +2,6 @@
 
 #### What I'm working on now:
 
-- Backend Engineer @ [Mercury](https://mercury.com)
 - [vnsh.io](https://vnsh.io)
 - [gloz.ai](https://gloz.ai)
 
